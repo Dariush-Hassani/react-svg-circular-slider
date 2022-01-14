@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  min-height: 400px;
+  background-color: #141526;
+  overflow: hidden;
+}
+html {
+  overflow: hidden;
+}
+text {
+  font: bold 36px Verdana, Helvetica, Arial, sans-serif;
+  fill: white;
+}
